@@ -1,5 +1,5 @@
 katz_deli = []
-=begin 
+=begin
 def line(katz_deli)
   in_line_postion = []
 
