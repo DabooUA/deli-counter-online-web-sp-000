@@ -3,7 +3,7 @@ katz_deli = []
 def line(katz_deli)
   in_line_postion = []
 
-  if katz_deli.size == 0
+  if katz_deli.empty?
     puts "The line is currently empty."
   else
     number_count = 1
